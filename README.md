@@ -49,4 +49,4 @@ Listaan lisäys sekä poisto youtube videon avulla.
 ## Lisenssi
 
 
-Example: MIT license @ [author](author.com)
+Tätä en ymmäränyt.?
