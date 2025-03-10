@@ -15,7 +15,6 @@ Tein yksin
 - [Näyttökuvat](#screenshots)
 - [Teknologiat](#technologies)
 - [Käyttö](#setup)
-- [Approach](#approach)
 - [Status](#status)
 - [Lähteet](#credits)
 - [Lisenssi](#license)
