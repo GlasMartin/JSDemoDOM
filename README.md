@@ -1,15 +1,15 @@
-# Project Title 
+# Projektin nimi
 DOM projekti - Martin Glas
 
-## Demo link:
+## Demo linkki:
 https://willowy-stroopwafel-0c14e1.netlify.app/
 
-## How was the workload divided
+## Miten työpanos jaettiin
 Tein yksin
 
 
 
-## Table of Content:
+## Sisällysluettelo:
 
 - [About The App](#about-the-app)
 - [Screenshots](#screenshots)
@@ -20,25 +20,26 @@ Tein yksin
 - [Credits](#credits)
 - [License](#license)
 
-## About The App
+## Tietoja
 [Dom projekti] To-do sovellus. 
 
-## Screenshots
-Add here atleast one screenshot of the working application 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+## Näyttökuvat
+Näyttökuva 
+![image](https://github.com/user-attachments/assets/472124bd-6670-4898-bf2b-07fef1278363)
 
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
-## Technologies
+
+
+## Teknologiat
 Käytin HTML, CSS, JS
 
-## Setup
+## Käyttö
 Joko lataat kaikki tiedostot kansiona, tai käytät linkkiäni joka on hostattu netlifyssä (linkki tässä dokumentissa)
 
 ## Status
 [DOM projekti] valmis versiona 1.0
 
-## Credits
+## Lähteet
 
 - [ChatGPT](johndoe.com)
 - [GreatStack]https://www.youtube.com/watch?v=G0jO8kUrg-I&pp=ygUUdG9kbyBsaXN0IGphdmFzY3JpcHQ%3D
@@ -46,7 +47,7 @@ Joko lataat kaikki tiedostot kansiona, tai käytät linkkiäni joka on hostattu 
 ChatGPT oli apuna piilota/näytä napin teossa
 Listaan lisäys sekä poisto youtube videon avulla.
 
-## License
+## Lisenssi
 
 
 Example: MIT license @ [author](author.com)
