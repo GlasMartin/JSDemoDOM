@@ -11,14 +11,14 @@ Tein yksin
 
 ## Sisällysluettelo:
 
-- [About The App](#about-the-app)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
+- [Tietoja](#about-the-app)
+- [Näyttökuvat](#screenshots)
+- [Teknologiat](#technologies)
+- [Käyttö](#setup)
 - [Approach](#approach)
 - [Status](#status)
-- [Credits](#credits)
-- [License](#license)
+- [Lähteet](#credits)
+- [Lisenssi](#license)
 
 ## Tietoja
 [Dom projekti] To-do sovellus. 
